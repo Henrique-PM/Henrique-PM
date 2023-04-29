@@ -1,5 +1,3 @@
-
-
 ## Olá! Eu sou o Henrique-PM 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o-b3a129258/)
