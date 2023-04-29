@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Henrique-PM 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o-b3a129258/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prog_henrique.pm/)
 
 
 ![Henrique-PM GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-PM&show_icons=true&theme=dracula&count_private=true)
