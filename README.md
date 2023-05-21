@@ -19,13 +19,17 @@
 ## About me:
 
 • 💼 Undergraduate in Computer Science.
+
 • 📈 Developing personal projects.
+
 • ❤️ Passionate about technology, programming, and photography.
 
 ## Sobre mim:
 
 • 💼 Graduando em Ciência da Computação.
+
 • 📈 Desenvolvendo projetos pessoais.
+
 • ❤️ Apaixonado por tecnologia, programação e fotografia.
 
 
