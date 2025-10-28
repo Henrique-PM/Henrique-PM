@@ -1,30 +1,52 @@
-## Hi! I am Henrique-PM 🖐️
+<h1 align="center">Hi, I'm Henrique-PM </h1>
+<h3 align="center"> Full Stack Developer | Python | Flask | Java 🚀</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPh8i3s5TS%2BGamZDMrQ6ljw%3D%3D)
-
-![Henrique-PM GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-PM&show_icons=true&theme=dracula&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-PM&layout=compact&theme=dracula)
-
-## 🚀 Tecnologias:
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</div><br/>
+<p align="center">
+  <a href="http://henrique-pm.github.io" target="_blank">📁 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:pmoncao971@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## 🐍 Snake Contributions Animation
+##  GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-PM&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-PM&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-PM&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-PM&theme=dracula&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+## Let's Connect!
+
+<p align="center">
+  <a href="http://henrique-pm.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pmoncao971@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-PM/Henrique-PM/output/github-contribution-grid-snake-dark.svg">
