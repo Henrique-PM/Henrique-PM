@@ -22,14 +22,6 @@
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-PM&theme=dracula&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 ## Let's Connect!
 
 <p align="center">
