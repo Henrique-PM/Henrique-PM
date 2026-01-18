@@ -16,25 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-PM&layout=compact&theme=dracula&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-PM&theme=dracula&hide_border=true"/>
-</p>
-
 ---
-
-## Let's Connect!
-
-<p align="center">
-  <a href="http://henrique-pm.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-mon%C3%A7%C3%A3o" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pmoncao971@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
