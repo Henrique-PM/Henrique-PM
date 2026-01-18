@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Henrique-PM </h1>
-<h3 align="center"> Full Stack Developer | Python | Flask | Java 🚀</h3>
+<h3 align="center"> Full Stack Developer | Python | Node | Java 🚀</h3>
 
 <p align="center">
   <a href="http://henrique-pm.github.io" target="_blank">📁 Portfolio</a> •
